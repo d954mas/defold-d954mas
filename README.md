@@ -42,10 +42,12 @@ In progress. Box2d ne
 
 ## **defold-emmylua-api**
 Emmylua headers for defold. Autocomple in IDE(Idea, VScode, etc.
+
 [Sources](https://github.com/d954mas/defold-emmylua-api)
 
 ## **defold-utf8**
 utf8 library bindings for defold https://github.com/starwing/luautf8
+
 [Sources](https://github.com/d954mas/defold-utf8)
 
 
