@@ -172,11 +172,17 @@ Unleash the magic powers of your voice! Compose words and cast spells in fights 
 
 # Experiments
 
-## **[defold-rlottie](https://github.com/d954mas/defold-rlottie)**
+## defold-rlottie
 try to add rlottie to defold. Use software render in buffer. So it is slow.
 
-## **[defold-3d-sectors-render](https://github.com/d954mas/defold-3d-sectors-render)**
+[Sources](https://github.com/d954mas/defold-rlottie)
+
+## defold-3d-sectors-render
 Duke Nukem style(Portal) render
 
-## **[defold-raycasting](https://github.com/d954mas/defold-raycasting)**
+[Sources](https://github.com/d954mas/defold-3d-sectors-render)
+
+## **[defold-raycasting]()**
 A library to make games in defold using raycasting. Like wolfenstein 3D
+
+[Sources](https://github.com/d954mas/defold-raycasting)
