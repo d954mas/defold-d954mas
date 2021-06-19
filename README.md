@@ -14,6 +14,8 @@ utf8 library bindings for defold https://github.com/starwing/luautf8
 
 
 # Games [Open Source]
+Game made by me. Some of them from game jams or prototypes.
+Some of them are released
 
 ## Love Balls
 Link balls with a line
@@ -65,7 +67,7 @@ A prototype of 2.5d shooter.
 
 ![2.5D Shooter](https://github.com/d954mas/defold-d954mas/blob/master/images/shooter25d.png)
 
-## Ideal Date
+## Ideal Date(LD45)
 Game for LD45(Start with nothing).
 
 You lose your face. So you need to make new from nothing.
@@ -73,6 +75,21 @@ You lose your face. So you need to make new from nothing.
 [Sources](https://github.com/d954mas/LD45) [Play](https://d954mas.itch.io/ideal-date)
 
 <img src="https://github.com/d954mas/defold-d954mas/blob/master/images/ideal-date.png" width="300">
+
+## Ent Merchant (LD44)
+Game for LD44.
+
+[Sources](https://github.com/d954mas/LD44) [Play](https://d954mas.itch.io/ld44)
+
+![LD44](https://github.com/d954mas/defold-d954mas/blob/master/images/ld44.png)
+
+
+## Deadline(LD43)
+Game for LD43.
+
+[Sources](https://github.com/d954mas/LD43) [Play](https://d954mas.itch.io/ld43)
+
+<img src="https://github.com/d954mas/defold-d954mas/blob/master/images/ld43.png" width="300">
 
 
 # Games
