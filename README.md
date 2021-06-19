@@ -22,6 +22,22 @@ Link balls with a line
 
 ![love balls](https://github.com/d954mas/defold-d954mas/blob/master/images/love-balls.png)
 
+## Space Defender
+Space arcade shooter
+
+[Sources](https://github.com/d954mas/game-space-defender) [Play](https://yandex.ru/games/play/161545)
+
+<img src="https://github.com/d954mas/defold-d954mas/blob/master/images/space-defender.png" width="300">
+
+
+## Reflection Symmetry
+Use Reflection Symmetry to fill area and complete a level. Challege your brain. Swipe / Draw a symmetry line / Fill area Different levels to complete.
+
+[Sources](https://github.com/d954mas/game-reflection-2021) [Play](https://html5.gamedistribution.com/4b26eaedaacb4f6f81564a9169ec81b2/)
+
+<img src="https://github.com/d954mas/defold-d954mas/blob/master/images/reflection-symmetry.png" width="300">
+
+
 ## Castle Battle
 Spawn units, use magic spells, send caravan to get more money, and defeat enemy.
 Game for junction hackaton. And webmonetization game jam
@@ -33,6 +49,14 @@ For web monetization it is a webgame in itch.io
 [Sources](https://github.com/d954mas/junction2020-app) [Play](https://d954mas.itch.io/castle-battle)
 
 ![Castle Battle](https://github.com/d954mas/defold-d954mas/blob/master/images/castle-battle.png)
+
+## Dig Game
+Dig, earn money, upgrade hero and dig deeper =)
+MadeWithDefoldJam2020
+
+[Sources](https://github.com/d954mas/game-dig-MadeWithDefoldJam2020) [Play](https://d954mas.itch.io/dig-game)
+
+<img src="https://github.com/d954mas/defold-d954mas/blob/master/images/dig-game.png" width="300">
 
 ## 2.5D Shooter
 A prototype of 2.5d shooter.
@@ -48,7 +72,7 @@ You lose your face. So you need to make new from nothing.
 
 [Sources](https://github.com/d954mas/LD45) [Play](https://d954mas.itch.io/ideal-date)
 
-![2.5D Shooter](https://github.com/d954mas/defold-d954mas/blob/master/images/ideal-date.png)
+<img src="https://github.com/d954mas/defold-d954mas/blob/master/images/ideal-date.png" width="300">
 
 
 # Games
