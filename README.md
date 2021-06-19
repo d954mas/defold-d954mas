@@ -1,7 +1,13 @@
 
 # defold-d954mas
 
-Games and libraries that i made in defold game engine
+Games and libraries that i made in defold game engine.
+
+
+If you like that. You can support me on patreon.
+It will help me make more items for defold.
+
+[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/d954mas)
 
 - [Libraries](#libraries)
   * [defold-box2d](#defold-box2d)
