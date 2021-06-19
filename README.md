@@ -1,6 +1,34 @@
 
 # defold-d954mas
 
+Games and libraries that i made in defold game engine
+
+- [Libraries](#libraries)
+  * [defold-box2d](#defold-box2d)
+  * [defold-emmylua-api](#defold-emmylua-api)
+  * [defold-utf8](#defold-utf8)
+- [Games Open Source](#games-open-source)
+  * [Love Balls](#love-balls)
+  * [Space Defender](#space-defender)
+  * [Reflection Symmetry](#reflection-symmetry)
+  * [Castle Battle](#castle-battle)
+  * [Dig Game](#dig-game)
+  * [2.5D Shooter](#25d-shooter)
+  * [Ideal Date LD45](#ideal-date-ld45)
+  * [Ent Merchant LD44](#ent-merchant-ld44)
+  * [Deadline LD43](#deadline-ld43)
+  * [Asteroid Robinson GGJ2019 ](#asteroid-robinson-ggj2019)
+  * [Three Men in a spaceship LD42](#three-men-in-a-spaceship-ld42)
+  * [defold-dungeon-crawler](#defold-dungeon-crawler)
+  * [defold-flappy-bird](#defold-flappy-bird)
+- [Games](#games)
+  * [Power of Words](#power-of-words)
+- [Experiments](#experiments)
+  * [defold-rlottie](#defold-rlottie)
+  * [defold-3d-sectors-render](#defold-3d-sectors-render)
+  * [defold-raycasting](#defold-raycasting)
+
+
 # Libraries
 
 ## **defold-box2d**
@@ -13,7 +41,7 @@ Emmylua headers for defold. Autocomple in IDE(Idea, VScode, etc.)
 utf8 library bindings for defold https://github.com/starwing/luautf8
 
 
-# Games [Open Source]
+# Games Open Source
 Game made by me. Some of them from game jams or prototypes.
 Some of them are released
 
@@ -67,7 +95,7 @@ A prototype of 2.5d shooter.
 
 ![2.5D Shooter](https://github.com/d954mas/defold-d954mas/blob/master/images/shooter25d.png)
 
-## Ideal Date(LD45)
+## Ideal Date LD45
 Game for LD45(Start with nothing).
 
 You lose your face. So you need to make new from nothing.
@@ -76,7 +104,7 @@ You lose your face. So you need to make new from nothing.
 
 <img src="https://github.com/d954mas/defold-d954mas/blob/master/images/ideal-date.png" width="300">
 
-## Ent Merchant(LD44)
+## Ent Merchant LD44
 Game for LD44.
 
 [Sources](https://github.com/d954mas/LD44) [Play](https://d954mas.itch.io/ld44)
@@ -84,7 +112,7 @@ Game for LD44.
 ![LD44](https://github.com/d954mas/defold-d954mas/blob/master/images/ld44.png)
 
 
-## Deadline(LD43)
+## Deadline LD43
 Game for LD43.
 
 [Sources](https://github.com/d954mas/LD43) [Play](https://d954mas.itch.io/ld43)
@@ -92,14 +120,14 @@ Game for LD43.
 ![LD43](https://github.com/d954mas/defold-d954mas/blob/master/images/ld43.png)
 
 
-## Asteroid Robinson(GGJ2019)
+## Asteroid Robinson GGJ2019
 Game for Global Game Jam 2019..
 
 [Sources](https://github.com/d954mas/GGJ2019) [Play](https://d954mas.itch.io/asteroid-robinson)
 
 ![Asteroid Robinson](https://github.com/d954mas/defold-d954mas/blob/master/images/GGJ2019.png)
 
-## Three Men in a spaceship(LD42)
+## Three Men in a spaceship LD42
 Game for LD42.
 
 [Sources](https://github.com/d954mas/ld42) [Play](https://d954mas.itch.io/ld42-spaceship)
