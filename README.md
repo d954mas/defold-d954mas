@@ -110,8 +110,7 @@ Game for LD42.
 Prototype of dungeon crawler
 
 [Sources](https://github.com/d954mas/defold-dungeon-crawler) [Play](https://d954mas.github.io/defold-dungeon-crawler/)
-
-![defold-dungeon-crawler](https://github.com/d954mas/defold-d954mas/blob/master/images/defold-dungeon-crawler.png)
+![dungeon crawler](https://github.com/d954mas/defold-d954mas/blob/master/images/defold-dungeon-crawler.png)
 
 ## defold-flappy-bird
 Flappy Bird
@@ -123,6 +122,15 @@ Flappy Bird
 
 
 # Games
+Game i was working on. No sources available.
+
+## Power of Words
+Game for smart displays. Google nest hub, sberbox.
+Unleash the magic powers of your voice! Compose words and cast spells in fights with treacherous Trolls. Evolve brave heroes and help them free a flourishing planet from fiery invaders!
+
+[Url](https://just-ai.com/power-of-words/)
+
+![Power of Words](https://github.com/d954mas/defold-d954mas/blob/master/images/power_of_words_1.jpg)
 
 # Experiments
 
