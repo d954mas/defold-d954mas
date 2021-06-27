@@ -38,12 +38,12 @@ It will help me make more items for defold.
 # Libraries
 
 ## **defold-box2d**
-In progress. Box2d ne
+Box2d bindings for Defold.
+[Sources](https://github.com/d954mas/defold-box2d )
 
 ## **defold-emmylua-api**
 Emmylua headers for defold. Autocomple in IDE(Idea, VScode, etc.
 
-[Sources](https://github.com/d954mas/defold-emmylua-api)
 
 ## **defold-utf8**
 utf8 library bindings for defold https://github.com/starwing/luautf8
