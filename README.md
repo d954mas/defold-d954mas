@@ -43,7 +43,7 @@ Box2d bindings for Defold.
 
 ## **defold-api-emmylua**
 Emmylua headers for defold. Autocomple in IDE(Idea, VScode, etc.)
-
+[Sources](https://github.com/d954mas/defold-api-emmulua)
 
 ## **defold-utf8**
 utf8 library bindings for defold https://github.com/starwing/luautf8
