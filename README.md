@@ -11,7 +11,7 @@ It will help me make more items for defold.
 
 - [Libraries](#libraries)
   * [defold-box2d](#defold-box2d)
-  * [defold-emmylua-api](#defold-emmylua-api)
+  * [defold-api-emmylua](#defold-api-emmylua)
   * [defold-utf8](#defold-utf8)
 - [Games Open Source](#games-open-source)
   * [Love Balls](#love-balls)
@@ -41,8 +41,8 @@ It will help me make more items for defold.
 Box2d bindings for Defold.
 [Sources](https://github.com/d954mas/defold-box2d )
 
-## **defold-emmylua-api**
-Emmylua headers for defold. Autocomple in IDE(Idea, VScode, etc.
+## **defold-api-emmylua**
+Emmylua headers for defold. Autocomple in IDE(Idea, VScode, etc.)
 
 
 ## **defold-utf8**
