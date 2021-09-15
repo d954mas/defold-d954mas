@@ -64,7 +64,7 @@ Use tiled as level editor. Parse level from json files.
 
 [Sources](https://github.com/d954mas/defold-tiled-example)
 
-## ** defold-html-splash-webp-example**
+## **defold-html-splash-webp-example**
 Use wepb for your splash images instead of html. Webp is smaller.
 
 [Sources](https://github.com/d954mas/defold-html-splash-webp-example)
