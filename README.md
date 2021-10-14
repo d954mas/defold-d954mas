@@ -13,6 +13,7 @@ It will help me make more items for defold.
   * [defold-box2d](#defold-box2d)
   * [defold-api-emmylua](#defold-api-emmylua)
   * [defold-utf8](#defold-utf8)
+  * [defold-poly2tri](#defold-poly2tri)
 - [Examples](#examples)
   * [defold-tiled-example](#defold-tiled-example)
   * [defold-html-splash-webp-example](#defold-html-splash-webp-example)
@@ -54,6 +55,12 @@ Emmylua headers for defold. Autocomple in IDE(Idea, VScode, etc.)
 utf8 library bindings for defold https://github.com/starwing/luautf8
 
 [Sources](https://github.com/d954mas/defold-utf8)
+
+## **defold-poly2tri**
+This is a Lua wrapper around [poly2tri](https://github.com/jhasse/poly2tri). It provides fast, stable Constrained Delauney Triangulation of convex or concave polygons with or without holes. 
+Fork of [lua-poly2tri](https://github.com/TannerRogalsky/lua-poly2tri)
+
+[Sources](https://github.com/d954mas/defold-poly2tri)
 
 # Examples
 Game made by me. Some of them from game jams or prototypes.
