@@ -14,6 +14,7 @@ It will help me make more items for defold.
   * [defold-api-emmylua](#defold-api-emmylua)
   * [defold-utf8](#defold-utf8)
   * [defold-poly2tri](#defold-poly2tri)
+  * [defold-yodo1-mas](#defold-yodo1-mas)
 - [Examples](#examples)
   * [defold-tiled-example](#defold-tiled-example)
   * [defold-html-splash-webp-example](#defold-html-splash-webp-example)
@@ -62,9 +63,17 @@ Fork of [lua-poly2tri](https://github.com/TannerRogalsky/lua-poly2tri)
 
 [Sources](https://github.com/d954mas/defold-poly2tri)
 
+## **defold-yodo1-mas**
+[MAS](https://www.yodo1.com/monetization) is the world’s highest-performing game monetization platform.
+
+Grow revenue, get paid quickly, and focus on what you love: making great games.
+
+Installing MAS instantly powers up your game with 15 ad networks and mediators. MAS will always show the ads that bring you the most revenue.
+
+[Sources](https://github.com/d954mas/defold-yodo1-mas)
+
 # Examples
-Game made by me. Some of them from game jams or prototypes.
-Some of them are released
+Some examples
 
 ## **defold-tiled-example**
 Use tiled as level editor. Parse level from json files.
