@@ -209,7 +209,8 @@ Unleash the magic powers of your voice! Compose words and cast spells in fights 
 ## BoxRob
 Physic puzzle platformer. 
 All code + level design.
-[Url](https://poki.com/en/g/boxrob)
+
+[Play](https://poki.com/en/g/boxrob)
 
 [Article DTF](https://dtf.ru/indie/932906-boxrob-zagruzi-yashchiki-v-gruzovik)
 
