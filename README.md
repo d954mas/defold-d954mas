@@ -213,7 +213,7 @@ All code + level design.
 
 [Article DTF](https://dtf.ru/indie/932906-boxrob-zagruzi-yashchiki-v-gruzovik)
 
-![BoxRob](https://github.com/d954mas/defold-d954mas/blob/master/images/boxrob_1.jpg)
+![BoxRob](https://github.com/d954mas/defold-d954mas/blob/master/images/boxrob_1.png)
 
 # Experiments
 
