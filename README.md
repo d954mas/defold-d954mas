@@ -33,8 +33,10 @@ It will help me make more items for defold.
   * [defold-dungeon-crawler](#defold-dungeon-crawler)
   * [defold-flappy-bird](#defold-flappy-bird)
 - [Games](#games)
-  * [Power of Words](#power-of-words)
+  * [Home appliance. Insurrection](#Home-appliance.-Insurrection)   
+  * [Cannon shot](#Cannon-shot)
   * [BoxRob](#boxrob)
+  * [Power of Words](#power-of-words)
 - [Experiments](#experiments)
   * [defold-rlottie](#defold-rlottie)
   * [defold-3d-sectors-render](#defold-3d-sectors-render)
@@ -197,14 +199,26 @@ Flappy Bird
 # Games
 Game i was working on. No sources available.
 
-## Power of Words
-Game for smart displays. Google nest hub, sberbox.
-Unleash the magic powers of your voice! Compose words and cast spells in fights with treacherous Trolls. Evolve brave heroes and help them free a flourishing planet from fiery invaders!
 
-[Url](https://just-ai.com/power-of-words/)
+##   Home appliance. Insurrection
+The artificial intelligence begins a rise of machines.
+Stop the evil robots by restarting all computers in the house.
+Be invisible and stop machines!
 
-![Power of Words](https://github.com/d954mas/defold-d954mas/blob/master/images/power_of_words_1.jpg)
+[Play](https://yandex.ru/games/play/180624)
 
+[Play Android](https://play.google.com/store/apps/details?id=com.d954mas.game.yandexjam)
+
+![Home appliance. Insurrection](https://github.com/d954mas/defold-d954mas/blob/master/images/home_appliance_insurrection.png)
+
+##  Cannon shot
+Physical puzzle.
+Shoot cannonballs. Complete 75 difficult levels.
+The physical world. Physical  trajectory, bounces off the walls
+
+[Play](https://yandex.ru/games/play/178736)
+
+![Cannon shot](https://github.com/d954mas/defold-d954mas/blob/master/images/cannon_shot.png)
 
 ## BoxRob
 Physic puzzle platformer. 
@@ -215,6 +229,18 @@ All code + level design.
 [Article DTF](https://dtf.ru/indie/932906-boxrob-zagruzi-yashchiki-v-gruzovik)
 
 ![BoxRob](https://github.com/d954mas/defold-d954mas/blob/master/images/boxrob_1.png)
+
+
+## Power of Words
+Game for smart displays. Google nest hub, sberbox.
+Unleash the magic powers of your voice! Compose words and cast spells in fights with treacherous Trolls. Evolve brave heroes and help them free a flourishing planet from fiery invaders!
+
+[Url](https://just-ai.com/power-of-words/)
+
+![Power of Words](https://github.com/d954mas/defold-d954mas/blob/master/images/power_of_words_1.jpg)
+
+
+
 
 # Experiments
 
