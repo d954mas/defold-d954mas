@@ -209,7 +209,7 @@ Be invisible and stop machines!
 
 [Play Android](https://play.google.com/store/apps/details?id=com.d954mas.game.yandexjam)
 
-![Home appliance. Insurrection](https://github.com/d954mas/defold-d954mas/blob/master/images/home_appliance_insurrection.png)
+![Home appliance. Insurrection](https://github.com/d954mas/defold-d954mas/blob/master/images/home_appliance_insurrection.jpg)
 
 ##  Cannon shot
 Physical puzzle.
