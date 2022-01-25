@@ -33,7 +33,7 @@ It will help me make more items for defold.
   * [defold-dungeon-crawler](#defold-dungeon-crawler)
   * [defold-flappy-bird](#defold-flappy-bird)
 - [Games](#games)
-  * [Home appliance. Insurrection](#Home-appliance.-Insurrection)   
+  * [Home appliance. Insurrection](#Home-appliance-Insurrection)   
   * [Cannon shot](#Cannon-shot)
   * [BoxRob](#boxrob)
   * [Power of Words](#power-of-words)
