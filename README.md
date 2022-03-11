@@ -18,6 +18,7 @@ It will help me make more items for defold.
 - [Examples](#examples)
   * [defold-tiled-example](#defold-tiled-example)
   * [defold-html-splash-webp-example](#defold-html-splash-webp-example)
+  * [windows-lua-luarocks-install-guide](#windows-lua-luarocks-install-guide)
 - [Games Open Source](#games-open-source)
   * [Love Balls](#love-balls)
   * [Space Defender](#space-defender)
@@ -87,6 +88,11 @@ Use tiled as level editor. Parse level from json files.
 Use wepb for your splash images instead of html. Webp is smaller.
 
 [Sources](https://github.com/d954mas/defold-html-splash-webp-example)
+
+## **windows-lua-luarocks-install-guide**
+Guide how to install lua and luarocks in window pc.
+
+[Guide](https://github.com/d954mas/windows-lua-luarocks-install-guide)
 
 # Games Open Source
 Game made by me. Some of them from game jams or prototypes.
