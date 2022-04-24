@@ -78,7 +78,7 @@ Installing MAS instantly powers up your game with 15 ad networks and mediators. 
 [Sources](https://github.com/d954mas/defold-yodo1-mas)
 
 ## **defold-crazy-games-sdk**
-[Crazy Games SDK](https://developer.crazygames.com/sdk#HTML5
+[Crazy Games SDK](https://developer.crazygames.com/sdk#HTML5)
 
 [Sources](https://github.com/d954mas/defold-crazygames-sdk)
 
