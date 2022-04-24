@@ -43,7 +43,6 @@ It will help me make more items for defold.
   * [defold-rlottie](#defold-rlottie)
   * [defold-3d-sectors-render](#defold-3d-sectors-render)
   * [defold-raycasting](#defold-raycasting)
-
 -[Articles](#articles)
 
 
@@ -275,4 +274,5 @@ A library to make games in defold using raycasting. Like wolfenstein 3D
 
 # Articles
 Some articles that i write about games.
+
 [RU] https://dtf.ru/indie/932906-boxrob-zagruzi-yashchiki-v-gruzovik
