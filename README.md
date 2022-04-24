@@ -43,7 +43,7 @@ It will help me make more items for defold.
   * [defold-rlottie](#defold-rlottie)
   * [defold-3d-sectors-render](#defold-3d-sectors-render)
   * [defold-raycasting](#defold-raycasting)
--[Articles](#articles)
+- [Articles](#articles)
 
 
 # Libraries
