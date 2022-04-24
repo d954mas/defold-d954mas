@@ -15,6 +15,7 @@ It will help me make more items for defold.
   * [defold-utf8](#defold-utf8)
   * [defold-poly2tri](#defold-poly2tri)
   * [defold-yodo1-mas](#defold-yodo1-mas)
+  * [defold-crazy-games-sdk](#defold-crazy-games-sdk)
 - [Examples](#examples)
   * [defold-tiled-example](#defold-tiled-example)
   * [defold-html-splash-webp-example](#defold-html-splash-webp-example)
@@ -75,6 +76,11 @@ Grow revenue, get paid quickly, and focus on what you love: making great games.
 Installing MAS instantly powers up your game with 15 ad networks and mediators. MAS will always show the ads that bring you the most revenue.
 
 [Sources](https://github.com/d954mas/defold-yodo1-mas)
+
+## **defold-crazy-games-sdk**
+[Crazy Games SDK](https://developer.crazygames.com/sdk#HTML5
+
+[Sources](https://github.com/d954mas/defold-crazygames-sdk)
 
 # Examples
 Some examples
