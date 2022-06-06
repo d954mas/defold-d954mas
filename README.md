@@ -35,6 +35,7 @@ It will help me make more items for defold.
   * [defold-dungeon-crawler](#defold-dungeon-crawler)
   * [defold-flappy-bird](#defold-flappy-bird)
 - [Games](#games)
+  * [Mr Boomi](#Mr-Boomi)
   * [Home appliance. Insurrection](#Home-appliance-Insurrection)   
   * [Cannon shot](#Cannon-shot)
   * [BoxRob](#boxrob)
@@ -212,6 +213,15 @@ Flappy Bird
 # Games
 Game i was working on. No sources available.
 
+## Mr Boomi
+05.06.2022
+
+Addictive puzzle game with cute graphics. Rotate platforms to move Mr. Boomi to the end of the level.
+Touch control, and different levels. Try to complete them all.
+
+[Play](https://yandex.ru/games/play/190018?lang=en)
+
+![Mr Boomi](https://github.com/d954mas/defold-d954mas/blob/master/images/mr_boomi.png)
 
 ##   Home appliance. Insurrection
 The artificial intelligence begins a rise of machines.
