@@ -8,7 +8,7 @@ If you like that. You can support me on patreon.
 It will help me make more items for defold.
 
 [![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/d954mas)
-
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/d954mas)
 - [Libraries](#libraries)
   * [defold-box2d](#defold-box2d)
   * [defold-api-emmylua](#defold-api-emmylua)
@@ -247,9 +247,14 @@ The physical world. Physical  trajectory, bounces off the walls
 Physic puzzle platformer. 
 All code + level design.
 
+3 games. 21 level in each part.
+
 [Play](https://poki.com/en/g/boxrob)
+[Play Part 2](https://poki.com/en/g/boxrob-2)
+[Play Part 3](https://poki.com/en/g/boxrob-3)
 
 [Article DTF](https://dtf.ru/indie/932906-boxrob-zagruzi-yashchiki-v-gruzovik)
+[Post Defold](https://defold.com/2022/08/04/The-making-of-Boxrob/)
 
 ![BoxRob](https://github.com/d954mas/defold-d954mas/blob/master/images/boxrob_1.png)
 
